@@ -1,6 +1,6 @@
 # JohnKendrick.github.io
 
-## Documentatoion
+## Documentation
 
 The documentation for the PDielec project can be found at https://johnkendrick.github.io/Pdielec
 
